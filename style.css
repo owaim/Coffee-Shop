@@ -1,0 +1,48 @@
+body{
+    padding: 0px; margin: 0px;
+    background-color: #B5BE89;
+}
+.container{
+    margin-top: 12px;
+    text-align: center;
+    padding-top: 10px;
+   
+}
+.container{
+    background-color:#363031;;
+
+
+}
+a{
+    color: white;
+    text-decoration: none
+    ;
+}
+h1{
+    background-color: #ebece1;
+    color: #444444 ;
+  text-align: center;
+}
+li{
+    color: white;
+}
+.menu{
+    text-align: center;
+    background-color: #B5BE89;
+ 
+}
+h2{
+    color:  #363031;
+    background-color: #d3daab;
+}
+.Featured{
+    text-align: center;
+    background-color: #B5BE89;
+ 
+}
+p{
+color: white;
+}
+.form{
+    background-color:#B5BE89 
+}
